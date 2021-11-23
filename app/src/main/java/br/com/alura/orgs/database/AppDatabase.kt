@@ -9,22 +9,29 @@ import br.com.alura.orgs.database.converter.Converters
 import br.com.alura.orgs.database.dao.ProdutoDao
 import br.com.alura.orgs.model.Produto
 
-@Database(entities = [Produto::class], version = 1, exportSchema = true)
+@Database(
+    entities = [
+        Produto::class
+    ],
+    version = 1,
+    exportSchema = true
+)
 @TypeConverters(Converters::class)
 abstract class AppDatabase : RoomDatabase() {
+
     abstract fun produtoDao(): ProdutoDao
 
     companion object {
-        @Volatile private var db: AppDatabase? = null
-        fun instancia(context: Context) : AppDatabase {
+        @Volatile
+        private var db: AppDatabase? = null
+        fun instancia(context: Context): AppDatabase {
             return db ?: Room.databaseBuilder(
                 context,
                 AppDatabase::class.java,
                 "orgs.db"
-            ).allowMainThreadQueries()
-                .build().also {
-                    db = it
-                }
+            ).build().also {
+                db = it
+            }
         }
     }
 }
