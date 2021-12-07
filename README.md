@@ -6,7 +6,7 @@ App de simulação de um e-commerce de produtos naturais
 
 Tela de login, cadastro e autenticação de usuário. Criação de produto e listagem dos produtos de cada usuário.
 
-![orgs-login-sample](https://user-images.githubusercontent.com/8989346/143494735-e32bc52e-5411-4c93-b357-5a47ec903a06.gif)
+![Amostra das funcionalidades do App](https://user-images.githubusercontent.com/8989346/145072315-a14a79be-0c90-4e67-a0e6-2cf0245385d2.png)
 
 ## 📁 Acesso ao projeto
 
