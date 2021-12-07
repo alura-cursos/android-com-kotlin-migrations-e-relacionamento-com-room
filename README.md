@@ -8,11 +8,7 @@ Tela de login, cadastro e autenticação de usuário. Criação de produto e lis
 
 ![Amostra das funcionalidades do App](https://user-images.githubusercontent.com/8989346/145072315-a14a79be-0c90-4e67-a0e6-2cf0245385d2.png)
 
-## 📁 Acesso ao projeto
-
-Você pode acompanhar a evolução do projeto a partir da [branch dev](https://github.com/alexfelipe/orgs-room-2/tree/dev). 
-
-<!-- 
+<!-- ## 📁 Acesso ao projeto
 
 ## 🔨 Funcionalidades do projeto
 
