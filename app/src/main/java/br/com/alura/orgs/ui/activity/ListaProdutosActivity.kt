@@ -15,7 +15,10 @@ import br.com.alura.orgs.extensions.vaiPara
 import br.com.alura.orgs.preferences.dataStore
 import br.com.alura.orgs.preferences.usuarioLogadoPreferences
 import br.com.alura.orgs.ui.recyclerview.adapter.ListaProdutosAdapter
+import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.flow.collect
+import kotlinx.coroutines.flow.first
+import kotlinx.coroutines.flow.firstOrNull
 import kotlinx.coroutines.launch
 
 
@@ -40,22 +43,16 @@ class ListaProdutosActivity : AppCompatActivity() {
         configuraFab()
         lifecycleScope.launch {
             launch {
-                produtoDao.buscaTodos().collect { produtos ->
-                    adapter.atualiza(produtos)
-                }
+                verificaUsuarioLogado()
             }
+        }
+    }
 
-            launch {
-                dataStore.data.collect { preferences ->
-                    preferences[usuarioLogadoPreferences]?.let { usuarioId ->
-                        launch {
-                            usuarioDao.buscaPorId(usuarioId).collect {
-                                Log.i("ListaProdutos", "onCreate: $it")
-                            }
-                        }
-                    } ?: vaiParaLogin()
-                }
-            }
+    private suspend fun verificaUsuarioLogado() {
+        dataStore.data.collect { preferences ->
+            preferences[usuarioLogadoPreferences]?.let { usuarioId ->
+                buscaUsuario(usuarioId)
+            } ?: vaiParaLogin()
         }
     }
 
@@ -65,16 +62,37 @@ class ListaProdutosActivity : AppCompatActivity() {
     }
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
-        when(item.itemId) {
+        when (item.itemId) {
             R.id.menu_lista_produtos_sair_do_app -> {
                 lifecycleScope.launch {
-                    dataStore.edit { preferences ->
-                        preferences.remove(usuarioLogadoPreferences)
-                    }
+                    deslogaUsuario()
                 }
             }
         }
         return super.onOptionsItemSelected(item)
+    }
+
+    private fun buscaUsuario(usuarioId: String) {
+        lifecycleScope.launch {
+            usuarioDao.buscaPorId(usuarioId)
+                .firstOrNull()?.let {
+                launch {
+                    buscaProdutosUsuario()
+                }
+            }
+        }
+    }
+
+    private suspend fun buscaProdutosUsuario() {
+        produtoDao.buscaTodos().collect { produtos ->
+            adapter.atualiza(produtos)
+        }
+    }
+
+    private suspend fun deslogaUsuario() {
+        dataStore.edit { preferences ->
+            preferences.remove(usuarioLogadoPreferences)
+        }
     }
 
     private fun vaiParaLogin() {

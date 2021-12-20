@@ -9,6 +9,7 @@ import androidx.datastore.preferences.core.stringPreferencesKey
 import androidx.lifecycle.lifecycleScope
 import br.com.alura.orgs.database.AppDatabase
 import br.com.alura.orgs.databinding.ActivityLoginBinding
+import br.com.alura.orgs.extensions.toast
 import br.com.alura.orgs.extensions.vaiPara
 import br.com.alura.orgs.preferences.dataStore
 import br.com.alura.orgs.preferences.usuarioLogadoPreferences
@@ -34,21 +35,19 @@ class LoginActivity : AppCompatActivity() {
         binding.activityLoginBotaoEntrar.setOnClickListener {
             val usuario = binding.activityLoginUsuario.text.toString()
             val senha = binding.activityLoginSenha.text.toString()
-            Log.i("LoginActivity", "onCreate: $usuario - $senha")
-            lifecycleScope.launch {
-                usuarioDao.autentica(usuario, senha)?.let { usuario ->
-                    dataStore.edit { preferences ->
-                        preferences[usuarioLogadoPreferences] = usuario.id
-                    }
-                    vaiPara(ListaProdutosActivity::class.java)
-                    finish()
-                } ?: Toast.makeText(
-                    this@LoginActivity,
-                    "Falha na autenticação",
-                    Toast.LENGTH_SHORT
-                ).show()
-            }
+            autentica(usuario, senha)
+        }
+    }
 
+    private fun autentica(usuario: String, senha: String) {
+        lifecycleScope.launch {
+            usuarioDao.autentica(usuario, senha)?.let { usuario ->
+                dataStore.edit { preferences ->
+                    preferences[usuarioLogadoPreferences] = usuario.id
+                }
+                vaiPara(ListaProdutosActivity::class.java)
+                finish()
+            } ?: toast("Falha na autenticação")
         }
     }
 
