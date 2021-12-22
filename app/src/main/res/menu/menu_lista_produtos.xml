@@ -3,8 +3,8 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:id="@+id/menu_lista_produtos_sair_do_app"
-        android:icon="@drawable/ic_action_sair_do_app"
-        android:title="Sair do App"
+        android:id="@+id/menu_lista_produtos_perfil_usuario"
+        android:icon="@drawable/ic_action_perfil"
+        android:title="Perfil do usuário"
         app:showAsAction="ifRoom" />
 </menu>
