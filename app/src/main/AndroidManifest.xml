@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Orgs">
         <activity
+            android:name=".ui.activity.TodosProdutosActivity"
+            android:exported="false" />
+        <activity
             android:name=".ui.activity.FormularioCadastroUsuarioActivity"
             android:label="Cadastrar usuário" />
         <activity
@@ -19,7 +22,8 @@
             android:theme="@style/Theme.Orgs.NoActionBar" />
         <activity android:name=".ui.activity.DetalhesProdutoActivity" />
         <activity android:name=".ui.activity.FormularioProdutoActivity" />
-        <activity android:name=".ui.activity.ListaProdutosActivity"
+        <activity
+            android:name=".ui.activity.ListaProdutosActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

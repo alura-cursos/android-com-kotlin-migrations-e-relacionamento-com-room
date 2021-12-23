@@ -57,4 +57,6 @@ abstract class UsuarioBaseActivity : AppCompatActivity() {
         finish()
     }
 
+    protected fun usuarios() = usuarioDao.buscaTodos()
+
 }

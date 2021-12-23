@@ -64,6 +64,9 @@ class ListaProdutosActivity : UsuarioBaseActivity() {
                     deslogaUsuario()
                 }
             }
+            R.id.menu_lista_produtos_todos_produtos -> {
+                vaiPara(TodosProdutosActivity::class.java)
+            }
         }
         return super.onOptionsItemSelected(item)
     }
