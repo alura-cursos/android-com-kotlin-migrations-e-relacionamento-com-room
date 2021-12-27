@@ -1,3 +1,5 @@
+![Thumbnail](https://user-images.githubusercontent.com/8989346/147508031-c6ce2809-56d4-4030-b0ea-08b50d736e38.png)
+
 # Orgs
 
 App de simulação de um e-commerce de produtos naturais.
