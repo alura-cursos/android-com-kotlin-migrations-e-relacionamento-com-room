@@ -43,6 +43,6 @@ Após baixar o projeto, você pode abrir com o Android Studio. Para isso, na tel
 
 Open an Existing Project (ou alguma opção similar) Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo) Por fim clique em OK O Android Studio deve executar algumas tasks do Gradle para configurar o projeto, aguarde até finalizar. Ao finalizar as tasks, você pode executar o App 🏆
 
-<!-- ## 📚 Mais informações do curso
+## 📚 Mais informações do curso
 
-**Faça um CTA (_call to action_) para o curso do projeto**
+Gostou do projeto e quer conhecer mais? Você pode [acessar o curso](https://cursos.alura.com.br/course/android-kotlin-migrations-relacionamento-room) que desenvolve o projeto desde o começo!
