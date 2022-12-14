@@ -1,0 +1,31 @@
+br/com/alura/orgs/databinding/ActivityDetalhesProdutoBinding.java
+ br.com.alura.orgs.databinding.ActivityDetalhesProdutoBinding
+br/com/alura/orgs/databinding/ProdutoItemBinding.java
+ br.com.alura.orgs.databinding.ProdutoItemBinding
+br/com/alura/orgs/databinding/ActivityListaProdutosActivityBinding.java
+ br.com.alura.orgs.databinding.ActivityListaProdutosActivityBinding
+br/com/alura/orgs/BuildConfig.java
+ br.com.alura.orgs.BuildConfig
+br/com/alura/orgs/databinding/FormularioImagemBinding.java
+ br.com.alura.orgs.databinding.FormularioImagemBinding
+br/com/alura/orgs/databinding/ActivityFormularioProdutoBinding.java
+ br.com.alura.orgs.databinding.ActivityFormularioProdutoBinding
+br/com/alura/orgs/databinding/ActivityLoginBinding.java
+ br.com.alura.orgs.databinding.ActivityLoginBinding
+br/com/alura/orgs/databinding/ActivityFormularioCadastroUsuarioBinding.java
+ br.com.alura.orgs.databinding.ActivityFormularioCadastroUsuarioBinding
+br/com/alura/orgs/database/dao/ProdutoDao_Impl.java
+ br.com.alura.orgs.database.dao.ProdutoDao_Impl
+ br.com.alura.orgs.database.dao.ProdutoDao_Impl$1
+ br.com.alura.orgs.database.dao.ProdutoDao_Impl$2
+ br.com.alura.orgs.database.dao.ProdutoDao_Impl$3
+ br.com.alura.orgs.database.dao.ProdutoDao_Impl$4
+ br.com.alura.orgs.database.dao.ProdutoDao_Impl$5
+ br.com.alura.orgs.database.dao.ProdutoDao_Impl$6
+br/com/alura/orgs/database/AppDatabase_Impl.java
+ br.com.alura.orgs.database.AppDatabase_Impl
+ br.com.alura.orgs.database.AppDatabase_Impl$1
+br/com/alura/orgs/database/dao/UsuarioDao_Impl.java
+ br.com.alura.orgs.database.dao.UsuarioDao_Impl
+ br.com.alura.orgs.database.dao.UsuarioDao_Impl$1
+ br.com.alura.orgs.database.dao.UsuarioDao_Impl$2

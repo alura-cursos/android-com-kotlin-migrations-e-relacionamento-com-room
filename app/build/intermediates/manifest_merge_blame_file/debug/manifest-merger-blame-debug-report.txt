@@ -1,0 +1,109 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="br.com.alura.orgs"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml:7:5-34:19
+14        android:allowBackup="true"
+14-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.7.0] C:\Users\willensantos\.gradle\caches\transforms-3\22fc58c1aba25a38624b19fcaec4a163\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml:9:9-43
+18        android:label="@string/app_name"
+18-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml:10:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml:11:9-54
+20        android:supportsRtl="true"
+20-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml:12:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.Orgs" >
+22-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml:13:9-42
+23        <activity
+23-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml:14:9-16:49
+24            android:name="br.com.alura.orgs.ui.activity.FormularioCadastroUsuarioActivity"
+24-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml:15:13-74
+25            android:label="Cadastrar usuário" />
+25-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml:16:13-46
+26        <activity
+26-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml:17:9-26:20
+27            android:name="br.com.alura.orgs.ui.activity.LoginActivity"
+27-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml:18:13-54
+28            android:exported="true"
+28-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml:19:13-36
+29            android:theme="@style/Theme.Orgs.NoActionBar" >
+29-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml:20:13-58
+30            <intent-filter>
+30-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml:21:13-25:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml:22:17-69
+31-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml:22:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml:24:17-77
+33-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml:24:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity android:name="br.com.alura.orgs.ui.activity.DetalhesProdutoActivity" />
+36-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml:27:9-73
+36-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml:27:19-70
+37        <activity android:name="br.com.alura.orgs.ui.activity.FormularioProdutoActivity" />
+37-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml:28:9-75
+37-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml:28:19-72
+38        <activity android:name="br.com.alura.orgs.ui.activity.ListaProdutosActivity" />
+38-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml:29:9-71
+38-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml:29:19-68
+39
+40        <meta-data
+40-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml:31:9-33:57
+41            android:name="preloaded_fonts"
+41-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml:32:13-43
+42            android:resource="@array/preloaded_fonts" />
+42-->C:\Users\willensantos\Documents\Estudos\android-com-kotlin-migrations-e-relacionamento-com-room\app\src\main\AndroidManifest.xml:33:13-54
+43
+44        <service
+44-->[androidx.room:room-runtime:2.3.0] C:\Users\willensantos\.gradle\caches\transforms-3\2ec1915d280d38828f359d963b673a57\transformed\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+45            android:name="androidx.room.MultiInstanceInvalidationService"
+45-->[androidx.room:room-runtime:2.3.0] C:\Users\willensantos\.gradle\caches\transforms-3\2ec1915d280d38828f359d963b673a57\transformed\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
+46            android:directBootAware="true"
+46-->[androidx.room:room-runtime:2.3.0] C:\Users\willensantos\.gradle\caches\transforms-3\2ec1915d280d38828f359d963b673a57\transformed\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+47            android:exported="false" />
+47-->[androidx.room:room-runtime:2.3.0] C:\Users\willensantos\.gradle\caches\transforms-3\2ec1915d280d38828f359d963b673a57\transformed\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+48
+49        <provider
+49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\willensantos\.gradle\caches\transforms-3\f0fef0678a57aff454a268ff3683da91\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+50            android:name="androidx.startup.InitializationProvider"
+50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\willensantos\.gradle\caches\transforms-3\f0fef0678a57aff454a268ff3683da91\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+51            android:authorities="br.com.alura.orgs.androidx-startup"
+51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\willensantos\.gradle\caches\transforms-3\f0fef0678a57aff454a268ff3683da91\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+52            android:exported="false" >
+52-->[androidx.emoji2:emoji2:1.0.0] C:\Users\willensantos\.gradle\caches\transforms-3\f0fef0678a57aff454a268ff3683da91\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+53            <meta-data
+53-->[androidx.emoji2:emoji2:1.0.0] C:\Users\willensantos\.gradle\caches\transforms-3\f0fef0678a57aff454a268ff3683da91\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+54                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+54-->[androidx.emoji2:emoji2:1.0.0] C:\Users\willensantos\.gradle\caches\transforms-3\f0fef0678a57aff454a268ff3683da91\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+55                android:value="androidx.startup" />
+55-->[androidx.emoji2:emoji2:1.0.0] C:\Users\willensantos\.gradle\caches\transforms-3\f0fef0678a57aff454a268ff3683da91\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+56            <meta-data
+56-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\willensantos\.gradle\caches\transforms-3\18e5844b9a73a26185a74c5ff080299f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+57                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+57-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\willensantos\.gradle\caches\transforms-3\18e5844b9a73a26185a74c5ff080299f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+58                android:value="androidx.startup" />
+58-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\willensantos\.gradle\caches\transforms-3\18e5844b9a73a26185a74c5ff080299f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+59        </provider>
+60    </application>
+61
+62</manifest>

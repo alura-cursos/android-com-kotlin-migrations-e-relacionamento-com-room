@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_erro.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable-hdpi\\erro.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\layout_formulario_imagem.xml.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\layout\\formulario_imagem.xml"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_formulario_produto.xml.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\layout\\activity_formulario_produto.xml"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_produto_1.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable-xhdpi\\produto_1.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_orgs_logo.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable-xxxhdpi\\orgs_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_action_add.xml.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable\\ic_action_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_formulario_cadastro_usuario.xml.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\layout\\activity_formulario_cadastro_usuario.xml"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_erro.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable-mdpi\\erro.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_produto_1.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable-xxhdpi\\produto_1.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_imagem_padrao.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable-hdpi\\imagem_padrao.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_produto_1.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable-ldpi\\produto_1.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_erro.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable-xxxhdpi\\erro.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_erro.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable-ldpi\\erro.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable_placeholder.xml.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable\\placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_lista_produtos_activity.xml.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\layout\\activity_lista_produtos_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_detalhes_produto.xml.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\menu\\menu_detalhes_produto.xml"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_orgs_logo.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable-xxhdpi\\orgs_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_imagem_padrao.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable-xxxhdpi\\imagem_padrao.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_produto_1.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable-mdpi\\produto_1.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_erro.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable-xhdpi\\erro.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_action_remover.xml.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable\\ic_action_remover.xml"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_imagem_padrao.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable-ldpi\\imagem_padrao.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_detalhes_produto.xml.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\layout\\activity_detalhes_produto.xml"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_action_refresh.xml.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable\\ic_action_refresh.xml"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_produto_1.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable-xxxhdpi\\produto_1.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\font_montserrat_bold.xml.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\font\\montserrat_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\layout_produto_item.xml.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\layout\\produto_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_imagem_padrao.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable-mdpi\\imagem_padrao.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_imagem_padrao.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable-xxhdpi\\imagem_padrao.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_orgs_logo.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable-mdpi\\orgs_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable_plano_de_fundo_arredondado.xml.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable\\plano_de_fundo_arredondado.xml"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_imagem_padrao.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable-xhdpi\\imagem_padrao.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_action_editar.xml.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable\\ic_action_editar.xml"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_produto_1.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable-hdpi\\produto_1.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_erro.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable-xxhdpi\\erro.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\font_montserrat.xml.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\font\\montserrat.xml"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_orgs_logo.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable-hdpi\\orgs_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_orgs_logo.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable-ldpi\\orgs_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_orgs_logo.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\drawable-xhdpi\\orgs_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    }
+]

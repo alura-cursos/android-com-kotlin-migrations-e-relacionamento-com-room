@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_formulario_produto.xml",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\layout\\activity_formulario_produto.xml"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\formulario_imagem.xml",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\layout\\formulario_imagem.xml"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\produto_item.xml",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\layout\\produto_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_detalhes_produto.xml",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\layout\\activity_detalhes_produto.xml"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_formulario_cadastro_usuario.xml",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\layout\\activity_formulario_cadastro_usuario.xml"
+    },
+    {
+        "merged": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_lista_produtos_activity.xml",
+        "source": "C:\\Users\\willensantos\\Documents\\Estudos\\android-com-kotlin-migrations-e-relacionamento-com-room\\app\\src\\main\\res\\layout\\activity_lista_produtos_activity.xml"
+    }
+]
